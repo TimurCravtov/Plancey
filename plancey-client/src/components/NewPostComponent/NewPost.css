@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+}
+
+.markdown-input {
+    width: 30%;
+    height: 300px;
+    padding: 10px;
+    margin-right: 20px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    resize: none; /* Disable textarea resizing */
+}
+
+.markdown-preview {
+    width: 30%;
+    color: white;
+    background-color: #5f60a1;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
